@@ -51,7 +51,7 @@ const getLocation = (city = 'London') => {
     }).then((res) => {
         getData(res.data);
     }).catch(err => {
-        getErr(err);
+        console.log(err);
     })
 };
 
