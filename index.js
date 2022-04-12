@@ -44,7 +44,7 @@ const state = {
 let newstate;
 
 const getLocation = (city = 'London') => {
-    axios.get(`http://api.weatherstack.com/current?access_key=${key}`, {
+    axios.get(`http://api.weatherstack.com/current?access_key=de1e7fa27bc040b8640aee1c959fadb6`, {
         params: {
             query: city
         }
