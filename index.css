@@ -127,7 +127,7 @@ img {
 .container:before {
   content: "";
   display: block;
-  background: url(./../src/assets/img/figure1.svg) no-repeat center/cover;
+  background: url(./assets/img/figure1.svg) no-repeat center/cover;
   width: 100%;
   height: 52%;
   position: absolute;
@@ -137,7 +137,7 @@ img {
 }
 
 .container.is-day::before {
-  background: url(./../src/assets/img/figure2.svg) no-repeat center/cover;
+  background: url(./assets/img/figure2.svg) no-repeat center/cover;
 }
 
 .top {
