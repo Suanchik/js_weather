@@ -1,5 +1,4 @@
 
-// const axios = 'axios';
 // const { setData } = './components/render/render';
 const cloudImg = './assets/img/icons/cloud.png';
 const gaugeImg = './assets/img/icons/gauge.png';
