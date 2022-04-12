@@ -1,0 +1,22 @@
+{
+  "name": "js_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suanchik/js_weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suanchik/js_weather/issues"
+  },
+  "homepage": "https://github.com/Suanchik/js_weather#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
